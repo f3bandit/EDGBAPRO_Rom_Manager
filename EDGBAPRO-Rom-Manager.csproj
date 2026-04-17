@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>EDGBAPRO_Rom_Manager</AssemblyName>
+    <RootNamespace>EDGBAPRO_Rom_Manager</RootNamespace>
+    <EnableDefaultItems>true</EnableDefaultItems>
+  </PropertyGroup></Project>

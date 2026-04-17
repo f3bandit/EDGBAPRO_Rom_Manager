@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Mario Kart - Super Circuit",
+    "aliases": [
+      "Mario Kart Super Circuit"
+    ],
+    "saveType": "EEPROM"
+  },
+  {
+    "title": "Pokemon Emerald Version",
+    "aliases": [
+      "Pokemon Emerald",
+      "Pok\u00e9mon Emerald Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Pokemon Ruby Version",
+    "aliases": [
+      "Pokemon Ruby",
+      "Pok\u00e9mon Ruby Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Pokemon Sapphire Version",
+    "aliases": [
+      "Pokemon Sapphire",
+      "Pok\u00e9mon Sapphire Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Pokemon FireRed Version",
+    "aliases": [
+      "Pokemon FireRed",
+      "Pok\u00e9mon FireRed Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Pokemon LeafGreen Version",
+    "aliases": [
+      "Pokemon LeafGreen",
+      "Pok\u00e9mon LeafGreen Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Metroid Fusion",
+    "aliases": [],
+    "saveType": "EEPROM"
+  },
+  {
+    "title": "Metroid - Zero Mission",
+    "aliases": [
+      "Metroid Zero Mission"
+    ],
+    "saveType": "EEPROM"
+  },
+  {
+    "title": "Castlevania - Aria of Sorrow",
+    "aliases": [
+      "Castlevania Aria of Sorrow"
+    ],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "Golden Sun",
+    "aliases": [],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "Golden Sun - The Lost Age",
+    "aliases": [
+      "Golden Sun The Lost Age"
+    ],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "Advance Wars",
+    "aliases": [],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "Advance Wars 2 - Black Hole Rising",
+    "aliases": [
+      "Advance Wars 2 Black Hole Rising"
+    ],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "The Legend of Zelda - The Minish Cap",
+    "aliases": [
+      "Legend of Zelda The Minish Cap",
+      "Zelda The Minish Cap"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "The Legend of Zelda - A Link to the Past & Four Swords",
+    "aliases": [
+      "Legend of Zelda A Link to the Past & Four Swords"
+    ],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "Mario & Luigi - Superstar Saga",
+    "aliases": [
+      "Mario and Luigi Superstar Saga"
+    ],
+    "saveType": "EEPROM"
+  },
+  {
+    "title": "Final Fantasy Tactics Advance",
+    "aliases": [],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "Fire Emblem",
+    "aliases": [],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "Fire Emblem - The Sacred Stones",
+    "aliases": [
+      "Fire Emblem The Sacred Stones"
+    ],
+    "saveType": "SRAM"
+  },
+  {
+    "title": "WarioWare, Inc. - Mega Microgame$!",
+    "aliases": [
+      "WarioWare Inc Mega Microgame$!"
+    ],
+    "saveType": "EEPROM"
+  },
+  {
+    "title": "Pokemon Emerald",
+    "aliases": [
+      "Pokemon Emerald Version",
+      "Pocket Monsters Emerald"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Pokemon Ruby",
+    "aliases": [
+      "Pokemon Ruby Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Pokemon Sapphire",
+    "aliases": [
+      "Pokemon Sapphire Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Pokemon Fire Red",
+    "aliases": [
+      "Pokemon FireRed Version",
+      "Pokemon Fire Red Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Pokemon Leaf Green",
+    "aliases": [
+      "Pokemon LeafGreen Version",
+      "Pokemon Leaf Green Version"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Mario Kart Super Circuit",
+    "aliases": [
+      "Mario Kart - Super Circuit"
+    ],
+    "saveType": "EEPROM"
+  },
+  {
+    "title": "Zelda Minish Cap",
+    "aliases": [
+      "The Legend of Zelda The Minish Cap",
+      "Legend of Zelda The Minish Cap"
+    ],
+    "saveType": "FLASH"
+  },
+  {
+    "title": "Metroid Zero Mission",
+    "aliases": [
+      "Metroid - Zero Mission"
+    ],
+    "saveType": "EEPROM"
+  },
+  {
+    "title": "Castlevania Aria of Sorrow",
+    "aliases": [
+      "Castlevania - Aria of Sorrow"
+    ],
+    "saveType": "SRAM"
+  }
+]
